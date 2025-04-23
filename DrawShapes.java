@@ -11,4 +11,6 @@ public class DrawShapes extends Applet
         g.drawLine(50,200,300,200);
         g.setColor(Color.RED);
         g.drawRect(50,50,150,100); 
+    }
+}        
   
